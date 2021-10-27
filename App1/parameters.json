@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_pilot_app1_name": {
+            "value": null
+        },
+        "serverfarms_Pilot_ASP1_name": {
+            "value": null
+        }
+    }
+}
